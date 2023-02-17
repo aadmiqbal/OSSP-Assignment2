@@ -2,9 +2,9 @@
 multithreading bst
 "Hello all,
 
-find the assignment here and the respective code here Download here. This extends assignment 1 to a multiprocessor program. Details are in the assignment. For questions, please use the MS teams channel
+find the assignment in pdf and the respective code in ca2.zip. This extends assignment 1 to a multiprocessor program. Details are in the assignment. For questions, please use the MS teams channel
 
-The model answer for Assignment 1 which can be used for this assignment is found here Download here.
+The model answer for Assignment 1 which can be used for this assignment is found bst.c.
 
 Kind regards - the team"
 
