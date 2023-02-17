@@ -8,4 +8,4 @@ The model answer for Assignment 1 which can be used for this assignment is found
 
 Kind regards - the team"
 
- -But model answer didn't work, had to make changes to own assignment1 code to get it to work differently so that it was in line with the requirements for this assignment.
+ -But model answer didn't work for majority of the time we had to work on the assignment, had to make changes to own assignment1 code to get it to work differently so that it was in line with the requirements for this assignment. model code was updated multiple times so might work now
