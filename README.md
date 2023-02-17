@@ -1,1 +1,11 @@
 # OSSP-Assignment2
+multithreading bst
+"Hello all,
+
+find the assignment here and the respective code here Download here. This extends assignment 1 to a multiprocessor program. Details are in the assignment. For questions, please use the MS teams channel
+
+The model answer for Assignment 1 which can be used for this assignment is found here Download here.
+
+Kind regards - the team"
+
+ -But model answer didn't work, had to make changes to own assignment1 code to get it to work differently so that it was in line with the requirements for this assignment.
